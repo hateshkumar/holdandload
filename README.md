@@ -12,14 +12,14 @@ Wrap HoldAndLoad Widget with Scaffold
 
 ```dart
  HoldAndLoad(
-child:Text('hold'),
-controller: ShootingController(ShootingValue(false, false)),
-isShootingButtonAnimate: false,
-style: HoldNLoadStyle,
-callBackShootingEnd: callBackEnd,
-callBackShootingStart: callBackStart,
-listener:listener,
-);
+            child:Text('hold'),
+            controller: ShootingController(ShootingValue(false, false)),
+            isShootingButtonAnimate: false,
+            style: HoldNLoadStyle,
+            callBackShootingEnd: callBackEnd,
+            callBackShootingStart: callBackStart,
+            listener:listener,
+           );
 ```
 
 ## HoldAndLoad Style
@@ -53,13 +53,14 @@ outerWidth: 4)
 with background
 
 Style.withBackgroundColor(
-outerSize: const Size.square(115),
-innerSize: const Size.square(82),
-outerColor: Colors.white,
-progressColor: Colors.redAccent,
-backgroundColor: const Color(0xFF00AACE),
-progressWidth: 3,
-outerWidth: 4)
+                       outerSize: const Size.square(115),
+                       innerSize: const Size.square(82),
+                       outerColor: Colors.white,
+                       progressColor: Colors.redAccent,
+                       backgroundColor: const Color(0xFF00AACE),
+                       progressWidth: 3,
+                       outerWidth: 4
+                       )
 
 ```
 
