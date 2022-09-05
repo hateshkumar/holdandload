@@ -1,7 +1,7 @@
 name: holdnload
 description: This package was created to show the animated button for story and reels.
-version: 0.0.1
-homepage: https://github.com/hateshkumar/holdnload
+version: 0.0.2
+homepage: https://github.com/hateshkumar/holdandload
 
 environment:
   sdk: '>=2.18.0-165.1.beta <3.0.0'
