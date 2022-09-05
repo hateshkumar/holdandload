@@ -78,9 +78,7 @@ listener will get triggered from the start of callBackShootingStart till callBac
 
 ## DEMO
 
-https://user-images.githubusercontent.com/18635520/188449124-0863c9be-1701-4004-9699-940159773b3e.mov
-
-
+https://user-images.githubusercontent.com/18635520/188497437-f1638f3a-60a2-408c-bdb8-1b9b363f3963.mp4
 
 
 ![1](https://user-images.githubusercontent.com/18635520/188443192-b154b0b1-2e1c-451b-ba3d-70b5386ba120.png)
